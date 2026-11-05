@@ -1,2 +1,2 @@
-# Group-1
-Group 1 Porject
+# Alpha Manufacturing 
+Group 1 Project 
